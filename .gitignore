@@ -1,0 +1,14 @@
+*.dll
+*.pdb
+obj/**
+bin/**
+runtimes/**
+/.vs/EchoBot/v16
+/.config
+/EchoBotML.ConsoleApp/obj
+/EchoBotML.Model/bin
+/EchoBotML.Model/obj
+/PostDeployScripts
+/Properties
+/.vs/EchoBot
+/EchoBotML.ConsoleApp/bin/Debug/netcoreapp2.1
